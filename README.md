@@ -6,7 +6,11 @@ https://home.aveek.io/GitHub-Profile-Badges/
 
 I'm a creative, versatile full-stack software engineer with extensive experience in early-stage AI/ML startups.
 
-**I'm Currently Playing With:**
+**I'm Open to Work**
+* [💼 LinkedIn](https://www.linkedin.com/in/kyle-fortune-lad/)
+* [:page_facing_up: Resume](https://kyle.fortune-lad.com/resume.pdf)
+
+**I'm Currently Playing With**
 
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
@@ -15,7 +19,7 @@ I'm a creative, versatile full-stack software engineer with extensive experience
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/webassembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white)
 
-**I Love Using:**
+**I Love Using**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -28,7 +32,7 @@ I'm a creative, versatile full-stack software engineer with extensive experience
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
 
 <details>
-<summary><b>I Have Used:</b></summary>
+<summary><b>I Have Used</b></summary>
 
 | At Home | |
 |---:|---|
